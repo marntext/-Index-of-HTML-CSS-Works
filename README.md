@@ -3,4 +3,4 @@
   
   | Project Code | Name     | Repo link                                                      |           Overview                  |
   |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
-  |HTML/CSS-1     |Team Page| [Repository](https://github.com/marntext/Team-Page)|<img src="img/Crew.gif" height="400">|
+  |HTML/CSS-1     |Team Page| [Repository](https://github.com/marntext/Team-Page)|<img src="img/Crew.gif" height="300">|
