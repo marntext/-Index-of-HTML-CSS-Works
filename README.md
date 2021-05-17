@@ -1,5 +1,5 @@
 # 
-<h1 align="center">Index-of-HTML-CSS-Works</h1>  
+<h1 align="center">Index-of-HTML-CSS-JS-Works</h1>  
   
   | Project Code | Name     | Repo link                                                      | Overview                            |
   |:--------------:|:--------:|:--------------------------------------------------------------:|:------------------------------------:|
